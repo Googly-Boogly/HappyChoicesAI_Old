@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=happychoices
+POSTGRES_USER=jOcKwvDYSVlidRMwqTHVjIVDqGDCOpRz
+POSTGRES_PASSWORD=ee3742NQ57tK9XdGdEytCUSnRj8hKuvgy3SkWcodd7p9jKBnPnUc6GlMEoB4wl6a
